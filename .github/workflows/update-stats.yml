@@ -1,0 +1,36 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동 갱신
+  workflow_dispatch: # 수동으로도 실행 가능
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=kes02&show_icons=true&theme=radical'
+          path: profile/stats.svg # 이미지가 저장될 경로
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate Top Langs Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: 'username=kes02&layout=compact&theme=radical'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
