@@ -1,4 +1,5 @@
 ## 🧑‍💻 Contact me
+이력서: https://kes02.github.io/ <br><br>
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kes02/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjjung1220@gmail.com)
 
@@ -55,15 +56,12 @@
   </tbody>
 </table>
 
-<br>
-
-<br>
-
-## 🏅 Stats
+<!--## 🏅 Stats
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
 | ![Heejin's GitHub stats](./profile/stats.svg) | ![Top Langs](./profile/top-langs.svg) |
+<-->
 
 ### 🔥 Streak Stats (활동 기록)
 ![Heejin's streak](https://github-readme-streak-stats.herokuapp.com/?user=kes02&theme=dark)
