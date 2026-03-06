@@ -56,12 +56,13 @@
   </tbody>
 </table>
 
-<!--## 🏅 Stats
+## 🏅 Stats
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
 | ![Heejin's GitHub stats](./profile/stats.svg) | ![Top Langs](./profile/top-langs.svg) |
-<-->
 
+<!--
 ### 🔥 Streak Stats (활동 기록)
-![Heejin's streak](https://github-readme-streak-stats.herokuapp.com/?user=kes02&theme=dark)
+![Heejin's streak](https://github-readme-streak-stats.herokuapp.com/?user=kes02&theme=dark) 
+-->
