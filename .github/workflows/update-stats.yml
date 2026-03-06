@@ -14,7 +14,7 @@ jobs:
       - name: Generate Stats Card
         run: |
           mkdir -p profile
-          curl "https://github-readme-stats-2rmc48wk4-jeongs-projects-3f3fa55e.vercel.app/api?username=kes02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" \
+          curl "https://github-readme-stats-2rmc48wk4-jeongs-projects-3f3fa55e.vercel.app/api?username=kes02&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" \
             -o profile/stats.svg
       
       - name: Generate Top Langs Card
