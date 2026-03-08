@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="198.09"
+          width="198.2"
           height="8"
           fill="#b07219"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="198.09"
+          x="198.2"
           y="0"
-          width="25.6"
+          width="25.55"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="223.69"
+          x="223.75"
           y="0"
-          width="16.68"
+          width="16.65"
           height="8"
           fill="#6E4C13"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.37"
+          x="240.4"
           y="0"
-          width="13.96"
+          width="13.95"
           height="8"
           fill="#f34b7d"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.33"
+          x="244.35"
           y="0"
-          width="13.05"
+          width="13.04"
           height="8"
           fill="#663399"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.38000000000002"
+          x="247.39"
           y="0"
           width="12.61"
           height="8"
@@ -191,21 +191,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 79.24%
+        Java 79.28%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 10.24%
+        JavaScript 10.22%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#6E4C13" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Assembly 6.67%
+        Assembly 6.66%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
