@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Heejin Jung's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1902, Total PRs: 133, Total Issues: 4, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1910, Total PRs: 133, Total Issues: 4, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 137.0876500539231;
+        stroke-dashoffset: 137.0256714995839;
       }
     }
   
