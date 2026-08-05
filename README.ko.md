@@ -10,14 +10,6 @@
 
 🌐 이력서 & 포트폴리오 → **[kes02.github.io](https://kes02.github.io/)**
 
-## 🛠️ 기술 스택
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,c,ts,js,html,css,swift,react,aws,git,github,figma,notion&theme=dark" alt="기술 스택" />
-
-</div>
-
 ## 🌱 오픈소스 기여
 
 #### [steipete/CodexBar](https://github.com/steipete/CodexBar) · `Swift`
@@ -27,6 +19,8 @@ AI 코딩 도구의 사용량 한도를 메뉴바에서 한눈에 보여주는 m
 - Claude OAuth 계정 전환 버그를 **제보하고 근본 원인까지 분석**했습니다 ([#1785](https://github.com/steipete/CodexBar/issues/1785)).
 - v0.38.0에서 **회귀를 발견해 재현**하고 별도 이슈로 올렸습니다 ([#1886](https://github.com/steipete/CodexBar/issues/1886)) → v0.40.0에서 고쳐졌고, 직접 확인 후 이슈를 닫았습니다.
 - Claude **Max 사용량 배수(5x/20x)** 플랜 라벨에 표시하는 **기능 PR을 머지**했습니다 ([#1932](https://github.com/steipete/CodexBar/pull/1932)).
+- 읽을 수 없는 Claude OAuth 자격 증명을 **재시도 불가 상태로 분류**해, 백그라운드 갱신이 헛된 재시도 대신 재인증 안내를 띄우도록 **수정 PR을 머지**했습니다 ([#2650](https://github.com/steipete/CodexBar/pull/2650)).
+- Perplexity 프로모션 크레딧 만료일 포맷터를 `en_US_POSIX`로 **고정**해 사용자 로케일과 무관하게 날짜가 같게 보이도록 **수정 PR을 머지**했습니다. 로케일·타임존에 흔들리지 않는 회귀 테스트도 함께 넣었습니다 ([#2651](https://github.com/steipete/CodexBar/pull/2651)).
 - 중복된 프로바이더 문서를 정리한 **문서 PR을 머지**했습니다 ([#1801](https://github.com/steipete/CodexBar/pull/1801)).
 
 ## 🚀 프로젝트

@@ -10,14 +10,6 @@ Hi, I'm Heejin, a software engineer still early in the journey and learning in t
 
 🌐 Résumé & portfolio → **[kes02.github.io](https://kes02.github.io/)**
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,c,ts,js,html,css,swift,react,aws,git,github,figma,notion&theme=dark" alt="Tech stack" />
-
-</div>
-
 ## 🌱 Open Source Contributions
 
 #### [steipete/CodexBar](https://github.com/steipete/CodexBar) · `Swift`
@@ -27,6 +19,8 @@ A macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance.
 - **Reported & root-caused** a Claude OAuth account-switching bug ([#1785](https://github.com/steipete/CodexBar/issues/1785)).
 - **Caught & reproduced a regression** in v0.38.0 and filed a scoped follow-up ([#1886](https://github.com/steipete/CodexBar/issues/1886)) → fixed in v0.40.0, which I verified and closed.
 - **Merged a feature PR** that surfaces the Claude Max usage multiplier (5x/20x) in the plan label ([#1932](https://github.com/steipete/CodexBar/pull/1932)).
+- **Merged a fix PR** that classifies an unreadable Claude OAuth credential as a terminal refresh state, so background refresh stops retrying in vain and shows re-auth guidance instead ([#2650](https://github.com/steipete/CodexBar/pull/2650)).
+- **Merged a fix PR** pinning the Perplexity promo-credit expiry formatter to `en_US_POSIX`, so the date renders the same regardless of the user's locale — with locale- and time-zone-stable regression tests ([#2651](https://github.com/steipete/CodexBar/pull/2651)).
 - **Merged a docs PR** consolidating a duplicate provider section ([#1801](https://github.com/steipete/CodexBar/pull/1801)).
 
 ## 🚀 Featured Projects
