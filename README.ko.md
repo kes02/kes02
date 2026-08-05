@@ -6,7 +6,7 @@
 
 ## 소개
 
-정희진입니다. 백엔드는 Java와 Spring Boot로 시작했고, 지금은 Swift로 macOS 앱을 만듭니다. 메뉴바 포모도로 타이머 Pomopet을 만들어 Homebrew로 배포하고 있고, CodexBar에는 버그 제보 2건과 머지된 PR 4건을 남겼습니다. 코드를 짜는 시간보다 무엇이 실제로 깨졌는지 좁히는 데 시간을 더 씁니다.
+정희진입니다. 소프트웨어 마에스트로 17기로 활동하고 있습니다. 백엔드는 Java와 Spring Boot로 시작했고, 지금은 Swift로 macOS 앱을 내놓고 있습니다. 메뉴바 포모도로 타이머 Pomopet을 만들어 Homebrew로 배포하고 있습니다. CodexBar에는 버그 제보 2건과 머지된 PR 4건을 남겼고, 제가 제보한 회귀는 v0.40.0에서 고쳐졌습니다.
 
 이력서 & 포트폴리오: **[kes02.github.io](https://kes02.github.io/)**
 
@@ -27,6 +27,9 @@ AI 코딩 도구의 사용량 한도를 메뉴바에서 한눈에 보여주는 m
 
 **[Pomopet](https://github.com/kes02/Pomopet)**: 공부를 함께하고 싶은 펫을 입력하고, 펫과 함께 공부를 이어가는 macOS 메뉴바 포모도로 타이머. 일일 스트릭과 활동 잔디 기록을 지원합니다.
 `Swift` · `SwiftUI` · `SwiftData` · [`homebrew-pomopet`](https://github.com/kes02/homebrew-pomopet)로 설치
+
+**[jin-skills](https://github.com/kes02/jin-skills)**: 직접 만들어 쓰는 Claude Code 스킬 7개를 플러그인으로 묶은 모음. 커밋·PR 컨벤션, 티켓 작성, 웹 리서치 등을 다룹니다.
+`Claude Code` · `Shell`
 
 **[time-mirror](https://github.com/kes02/time-mirror)**: 예상 계획과 실제 계획을 나란히 놓고 보는 타임라인 플래너(PWA). 세운 계획대로 하루를 보냈는지 되돌아봅니다.
 `TypeScript` · `PWA`

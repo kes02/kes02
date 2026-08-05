@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm Heejin. I started on the backend with Java and Spring Boot, and these days I write Swift for macOS. I built Pomopet, a menu-bar Pomodoro timer, and ship it through Homebrew. On CodexBar I have filed 2 bug reports and merged 4 PRs, two of them fixes. Most of my time goes into narrowing down what is actually broken, not into writing the patch.
+I'm Heejin, currently in the 17th cohort of Software Maestro, a software talent program run by Korea's Ministry of Science and ICT. I started on the backend with Java and Spring Boot, and these days I ship macOS apps in Swift. I built Pomopet, a menu-bar Pomodoro timer, and put it on Homebrew. On CodexBar I've filed 2 bug reports and had 4 PRs merged, and the regression I reported was fixed in v0.40.0.
 
 Résumé & portfolio: **[kes02.github.io](https://kes02.github.io/)**
 
@@ -27,6 +27,9 @@ A macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance.
 
 **[Pomopet](https://github.com/kes02/Pomopet)**: a macOS menu-bar Pomodoro timer where you pick a pet to study with and keep going together, tracking daily streaks and an activity-grass log.
 `Swift` · `SwiftUI` · `SwiftData` · install via [`homebrew-pomopet`](https://github.com/kes02/homebrew-pomopet)
+
+**[jin-skills](https://github.com/kes02/jin-skills)**: seven Claude Code skills I wrote for my own workflow and packaged as a plugin, covering commit and PR conventions, ticket writing, and web research.
+`Claude Code` · `Shell`
 
 **[time-mirror](https://github.com/kes02/time-mirror)**: a timeline planner (PWA) that sets your planned and actual timelines side by side, so you can look back on whether the day went the way you meant it to.
 `TypeScript` · `PWA`
