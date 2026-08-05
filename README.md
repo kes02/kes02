@@ -4,13 +4,13 @@
 
 </div>
 
-## 👋 About me
+## About me
 
-Hi, I'm Heejin, a software engineer still early in the journey and learning in the open. I started on the backend with Java and Spring Boot, and lately I've been widening the stack toward the web front end and native macOS. And I'm contributing to open source as I go.
+I'm Heejin. I started on the backend with Java and Spring Boot, and these days I write Swift for macOS. I built Pomopet, a menu-bar Pomodoro timer, and ship it through Homebrew. On CodexBar I have filed 2 bug reports and merged 4 PRs, two of them fixes. Most of my time goes into narrowing down what is actually broken, not into writing the patch.
 
-🌐 Résumé & portfolio → **[kes02.github.io](https://kes02.github.io/)**
+Résumé & portfolio: **[kes02.github.io](https://kes02.github.io/)**
 
-## 🌱 Open Source Contributions
+## Open source contributions
 
 #### [steipete/CodexBar](https://github.com/steipete/CodexBar) · `Swift`
 
@@ -20,21 +20,21 @@ A macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance.
 - **Caught & reproduced a regression** in v0.38.0 and filed a scoped follow-up ([#1886](https://github.com/steipete/CodexBar/issues/1886)) → fixed in v0.40.0, which I verified and closed.
 - **Merged a feature PR** that surfaces the Claude Max usage multiplier (5x/20x) in the plan label ([#1932](https://github.com/steipete/CodexBar/pull/1932)).
 - **Merged a fix PR** that classifies an unreadable Claude OAuth credential as a terminal refresh state, so background refresh stops retrying in vain and shows re-auth guidance instead ([#2650](https://github.com/steipete/CodexBar/pull/2650)).
-- **Merged a fix PR** pinning the Perplexity promo-credit expiry formatter to `en_US_POSIX`, so the date renders the same regardless of the user's locale — with locale- and time-zone-stable regression tests ([#2651](https://github.com/steipete/CodexBar/pull/2651)).
+- **Merged a fix PR** pinning the Perplexity promo-credit expiry formatter to `en_US_POSIX`, so the date renders the same regardless of the user's locale. It also adds regression tests that stay stable across locales and time zones ([#2651](https://github.com/steipete/CodexBar/pull/2651)).
 - **Merged a docs PR** consolidating a duplicate provider section ([#1801](https://github.com/steipete/CodexBar/pull/1801)).
 
-## 🚀 Featured Projects
+## Featured projects
 
-**[🐾 Pomopet](https://github.com/kes02/Pomopet)** — a macOS menu-bar Pomodoro timer where you pick a pet to study with and keep going together, tracking daily streaks and an activity-grass log.
+**[Pomopet](https://github.com/kes02/Pomopet)**: a macOS menu-bar Pomodoro timer where you pick a pet to study with and keep going together, tracking daily streaks and an activity-grass log.
 `Swift` · `SwiftUI` · `SwiftData` · install via [`homebrew-pomopet`](https://github.com/kes02/homebrew-pomopet)
 
-**[🪞 time-mirror](https://github.com/kes02/time-mirror)** — a timeline planner (PWA) that sets your planned and actual timelines side by side, so you can look back on whether the day went the way you meant it to.
+**[time-mirror](https://github.com/kes02/time-mirror)**: a timeline planner (PWA) that sets your planned and actual timelines side by side, so you can look back on whether the day went the way you meant it to.
 `TypeScript` · `PWA`
 
-**[⚡ js-boj-fetch](https://github.com/kes02/js-boj-fetch)** — a Baekjoon problem recommender that suggests still-unsolved problems by your chosen conditions.
+**[js-boj-fetch](https://github.com/kes02/js-boj-fetch)**: a Baekjoon problem recommender that suggests still-unsolved problems by your chosen conditions.
 `JavaScript`
 
-## 🏅 Stats
+## Stats
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
@@ -44,7 +44,7 @@ A macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance.
 <img src="https://streak-stats.demolab.com?user=kes02&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-## 📫 Connect
+## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white)](https://kes02.github.io/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kes02/posts)
