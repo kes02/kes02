@@ -12,7 +12,7 @@ Résumé & portfolio: **[kes02.github.io](https://kes02.github.io/)**
 
 ## Open source contributions
 
-**[steipete/CodexBar](https://github.com/steipete/CodexBar)** · `Swift` — a macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance. 4 PRs merged, 2 bugs reported and root-caused ([details](https://kes02.github.io/resume)).
+**[steipete/CodexBar](https://github.com/steipete/CodexBar)** · `Swift` — a macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance. 5 PRs merged, 2 bugs reported and root-caused ([details](https://kes02.github.io/resume)).
 
 ## Featured projects
 

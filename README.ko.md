@@ -12,7 +12,7 @@
 
 ## 오픈소스 기여
 
-**[steipete/CodexBar](https://github.com/steipete/CodexBar)** · `Swift` — AI 코딩 도구의 사용량 한도를 메뉴바에서 한눈에 보여주는 macOS 앱. PR 4건 머지, 버그 2건 제보 및 원인 분석 ([상세](https://kes02.github.io/resume)).
+**[steipete/CodexBar](https://github.com/steipete/CodexBar)** · `Swift` — AI 코딩 도구의 사용량 한도를 메뉴바에서 한눈에 보여주는 macOS 앱. PR 5건 머지, 버그 2건 제보 및 원인 분석 ([상세](https://kes02.github.io/resume)).
 
 ## 프로젝트
 
