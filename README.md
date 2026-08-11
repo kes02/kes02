@@ -6,22 +6,13 @@
 
 ## About me
 
-I'm Heejin, currently in the 17th cohort of Software Maestro, a software talent program run by Korea's Ministry of Science and ICT. I started on the backend with Java and Spring Boot, and these days I ship macOS apps in Swift. I built Pomopet, a menu-bar Pomodoro timer, and put it on Homebrew. On CodexBar I've filed 2 bug reports and had 4 PRs merged, and the regression I reported was fixed in v0.40.0.
+I'm Heejin, currently in the 17th cohort of Software Maestro, a software talent program run by Korea's Ministry of Science and ICT. I started on the backend with Java and Spring Boot, and these days I ship macOS apps in Swift. I built Pomopet, a menu-bar Pomodoro timer, and put it on Homebrew. I also contribute to CodexBar, an open-source macOS app.
 
 Résumé & portfolio: **[kes02.github.io](https://kes02.github.io/)**
 
 ## Open source contributions
 
-#### [steipete/CodexBar](https://github.com/steipete/CodexBar) · `Swift`
-
-A macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance.
-
-- **Reported & root-caused** a Claude OAuth account-switching bug ([#1785](https://github.com/steipete/CodexBar/issues/1785)).
-- **Caught & reproduced a regression** in v0.38.0 and filed a scoped follow-up ([#1886](https://github.com/steipete/CodexBar/issues/1886)) → fixed in v0.40.0, which I verified and closed.
-- **Merged a feature PR** that surfaces the Claude Max usage multiplier (5x/20x) in the plan label ([#1932](https://github.com/steipete/CodexBar/pull/1932)).
-- **Merged a fix PR** that classifies an unreadable Claude OAuth credential as a terminal refresh state, so background refresh stops retrying in vain and shows re-auth guidance instead ([#2650](https://github.com/steipete/CodexBar/pull/2650)).
-- **Merged a fix PR** pinning the Perplexity promo-credit expiry formatter to `en_US_POSIX`, so the date renders the same regardless of the user's locale. It also adds regression tests that stay stable across locales and time zones ([#2651](https://github.com/steipete/CodexBar/pull/2651)).
-- **Merged a docs PR** consolidating a duplicate provider section ([#1801](https://github.com/steipete/CodexBar/pull/1801)).
+**[steipete/CodexBar](https://github.com/steipete/CodexBar)** · `Swift` — a macOS menu-bar app that keeps AI coding-tool usage limits visible at a glance. 4 PRs merged, 2 bugs reported and root-caused ([details](https://kes02.github.io/resume)).
 
 ## Featured projects
 
